@@ -184,7 +184,7 @@ form{
 .qg li .time{
 	width: 4.5rem;
 	height: 1.175rem;
-	border:0.5px solid #d7b359;
+	border:1px solid #d7b359;
 	border-radius:0.2rem;
 	margin:0.455rem auto 0rem;
 	overflow: hidden;
